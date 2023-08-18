@@ -7,6 +7,7 @@ import classnames from "classnames";
 import set from "date-fns/set";
 import startOfDay from "date-fns/startOfDay";
 import endOfDay from "date-fns/endOfDay";
+import "react-datepicker/src/stylesheets/datepicker.scss";
 import {
   newDate,
   isDate,
